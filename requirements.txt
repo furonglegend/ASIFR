@@ -1,0 +1,12 @@
+# requirements.txt
+# Minimal requirements for the CausalStream prototype and tests.
+# Use pip install -r requirements.txt to install.
+
+numpy>=1.23
+torch>=2.1.2           # reference version used in the manuscript (adjust to your CUDA/CPU build)
+scikit-learn>=1.2
+matplotlib>=3.5
+tqdm>=4.65
+pyyaml>=6.0
+pytest>=7.2
+umap-learn>=0.5       # optional, UMAP fallback for embeddings (not required)

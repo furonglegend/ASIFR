@@ -1,4 +1,4 @@
-# CausalStream Prototype — README
+# our method Prototype — README
 
 > **Note:** this repository contains a research prototype implementing **our method** for robust, low-latency streaming inference on windowed network traces. The code is intended for experimentation and research; it uses synthetic data by default. Please follow your institution’s ethics and legal guidelines before running any experiments on real or sensitive traffic.
 
